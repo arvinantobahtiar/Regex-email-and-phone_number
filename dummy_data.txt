@@ -1,0 +1,60 @@
+Nama: Kiandra Puspasari
+Nomor Telepon: +62 (0369) 596 4303
+Alamat: Gg. Rajiman No. 147
+Sukabumi, BB 67490
+Email: dwiandriani@example.org
+
+Nama: Hani Yulianti
+Nomor Telepon: (0803) 225-4846
+Alamat: Gg. Dr. Djunjunan No. 841
+Bitung, Nusa Tenggara Timur 77610
+Email: joko47@example.com
+
+Nama: Sutan Jaka Firgantoro
+Nomor Telepon: (058) 380-6584
+Alamat: Jalan Jamika No. 021
+Pekanbaru, JI 19041
+Email: vsitompul@example.org
+
+Nama: Fitria Palastri
+Nomor Telepon: +62 (45) 784 8127
+Alamat: Jalan W.R. Supratman No. 58
+Batu, SN 97149
+Email: elatupono@example.net
+
+Nama: Queen Mandasari
+Nomor Telepon: +62-892-430-6124
+Alamat: Gang Dipenogoro No. 76
+Tangerang Selatan, BB 84661
+Email: zjanuar@example.net
+
+Nama: Rini Lestari
+Nomor Telepon: +62-063-980-8381
+Alamat: Jalan Cempaka No. 36
+Sungai Penuh, BB 84797
+Email: ramadanmaman@example.org
+
+Nama: Fitriani Hidayat
+Nomor Telepon: +62 (0324) 012 0207
+Alamat: Jl. Gegerkalong Hilir No. 886
+Bandung, Gorontalo 40031
+Email: usadalintang@example.org
+
+Nama: Jasmin Marpaung
+Nomor Telepon: +62 (19) 739-0265
+Alamat: Gang Raya Ujungberung No. 1
+Cirebon, SR 08516
+Email: lestaridarmanto@example.com
+
+Nama: Lanang Sihombing, S.IP
+Nomor Telepon: +62 (27) 107 5604
+Alamat: Gg. H.J Maemunah No. 692
+Prabumulih, Jawa Tengah 91065
+Email: yanisaputra@example.com
+
+Nama: Zelda Melani
+Nomor Telepon: +62 (62) 592-7865
+Alamat: Gg. Sukajadi No. 2
+Bekasi, SS 24515
+Email: mahfudhandayani@example.net
+
