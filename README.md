@@ -2,13 +2,13 @@
 
 ## Getting Started
 
-Install all the libraries needed :
+Installing library :
 
 `pip install Faker`
 or
 `conda install -c conda-forge faker`
 
-Import the libraries that are needed :
+Import library :
 
 <pre>
 ```python
